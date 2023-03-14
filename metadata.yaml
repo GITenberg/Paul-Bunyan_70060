@@ -8,6 +8,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '37490'
     url: http://www.gutenberg.org/2009/agents/37490
+covers:
+- cover_type: archival
+  image_path: 70060-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevens, James
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '55573'
     url: http://www.gutenberg.org/2009/agents/55573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70060#Paul-Bunyan
 gutenberg_issued: '2023-02-18'
 identifiers:
   gutenberg: '70060'
